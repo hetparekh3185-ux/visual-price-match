@@ -1,4 +1,4 @@
 .env
+venv/
 _pycache_/
 *.pyc
-venv/
